@@ -2,7 +2,7 @@
 
 This coffee shop website project was developed with the aim of enhancing my web design skills. It represents one of my initial projects, during which I focused on utilizing basic HTML, CSS, and JavaScript, along with Bootstrap framework. 
 
-![alt text](image.png)
+![alt text](preview.png)
 
 ## Project Overview
 The project centers around a minimalistic design approach, aiming to provide a clean and visually appealing interface for visitors. By integrating Bootstrap components and following modern web design principles, I aimed to create a user-friendly browsing experience.
